@@ -30,7 +30,7 @@ main()
 	else
 	{
 		printf("\n %d \n non bigger ",non);
-	}
+	}/////helllllo sovannnnnnnnn
 	
 
 }
